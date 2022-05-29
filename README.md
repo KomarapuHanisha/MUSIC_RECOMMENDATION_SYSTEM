@@ -1,5 +1,9 @@
 # MUSIC-RECOMMENDATION-SYSTEM
 ![download](https://user-images.githubusercontent.com/106464481/170862900-f94ea208-243a-468a-809f-8345ab460295.jpg)
+Listening to their favourite songs is one thing everyone likes .But How cool it could be  when the system itself recommends you the songs you prefer!!.
+Music Recommendation System works exactly on the same thing.
+
+This music recommendation System uses Content based filtering and K-means algorithnm to do so
 
 ## PROCEDURE 
 1.  Installing Dependencies
